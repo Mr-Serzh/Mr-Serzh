@@ -1,6 +1,6 @@
-<h1>This «thing» is under construction... 👨‍🎨</h1>
+<h1>This «thing» is under construction...</h1>
 
-### Hi there, I'm Serzh 👋
+### Hi there, I'm Serzh
 
 - 🔭 I’m currently working on a lot of different stuff
 - 🌱 I’m currently learning everything I can get my hands on
