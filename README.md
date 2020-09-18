@@ -44,8 +44,7 @@
 
 ---
 
-![Lpj's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Serzh&show_icons=true&count_private=true&theme=buefy)
+![Lpj's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Serzh&show_icons=true&count_private=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Mr-Serzh&layout=compact&theme=blue-green)](https://github.com/Mr-Serzh/github-readme-stats)
 
 <!-- [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=Mr-Serzh&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/Mr-Serzh/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Mr-Serzh&layout=compact&theme=buefy)](https://github.com/Mr-Serzh/github-readme-stats)
